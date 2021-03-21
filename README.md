@@ -1,6 +1,6 @@
 # Basic todo app with react.
 
-This was my first project using react js. This is a simple todo app with no external database or something. With simple use of Hooks and basic html css.
+This was my first project using react js, a simple todo app with no external database or something. Made with simple use of Hooks and basic html css.
 
 ## Available Scripts
 
