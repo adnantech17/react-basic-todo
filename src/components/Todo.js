@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { TodoContext } from "../state/TodoProvider";
 
 const Todo = ({ todo }) => {
-    const [todos, setTodos, setEdit] = useContext(TodoContext);
+    const [todos, setTodos, edit, setEdit] = useContext(TodoContext);
     return (
         <div className="todo-class">
             <h2 className="todo-title">{todo.title}</h2>
